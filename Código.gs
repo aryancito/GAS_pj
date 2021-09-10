@@ -4,3 +4,4 @@ var dataRangeAll = sheet.getDataRange();
 var ultimaFila = dataRangeAll.getLastRow();
 
 var thread = GmailApp.getInboxThreads();
+var x =5;
